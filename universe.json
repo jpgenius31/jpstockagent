@@ -1,0 +1,37 @@
+{
+  "_comment": "Edit freely. Symbols are NSE tickers WITHOUT the .NS suffix. Market-cap buckets drift over time, so adjust the grouping to taste. Unknown or delisted tickers are skipped automatically.",
+  "large": [
+    {"symbol": "RELIANCE", "name": "Reliance Industries", "sector": "Energy"},
+    {"symbol": "TCS", "name": "Tata Consultancy Services", "sector": "IT"},
+    {"symbol": "HDFCBANK", "name": "HDFC Bank", "sector": "Banking"},
+    {"symbol": "INFY", "name": "Infosys", "sector": "IT"},
+    {"symbol": "ICICIBANK", "name": "ICICI Bank", "sector": "Banking"},
+    {"symbol": "BHARTIARTL", "name": "Bharti Airtel", "sector": "Telecom"},
+    {"symbol": "SBIN", "name": "State Bank of India", "sector": "Banking"},
+    {"symbol": "ITC", "name": "ITC", "sector": "FMCG"},
+    {"symbol": "LT", "name": "Larsen & Toubro", "sector": "Infrastructure"},
+    {"symbol": "HINDUNILVR", "name": "Hindustan Unilever", "sector": "FMCG"}
+  ],
+  "mid": [
+    {"symbol": "PERSISTENT", "name": "Persistent Systems", "sector": "IT"},
+    {"symbol": "COFORGE", "name": "Coforge", "sector": "IT"},
+    {"symbol": "MPHASIS", "name": "Mphasis", "sector": "IT"},
+    {"symbol": "AUBANK", "name": "AU Small Finance Bank", "sector": "Banking"},
+    {"symbol": "FEDERALBNK", "name": "Federal Bank", "sector": "Banking"},
+    {"symbol": "TVSMOTOR", "name": "TVS Motor Company", "sector": "Auto"},
+    {"symbol": "VOLTAS", "name": "Voltas", "sector": "Consumer Durables"},
+    {"symbol": "ASHOKLEY", "name": "Ashok Leyland", "sector": "Auto"},
+    {"symbol": "CUMMINSIND", "name": "Cummins India", "sector": "Capital Goods"},
+    {"symbol": "PIIND", "name": "PI Industries", "sector": "Agrochemicals"}
+  ],
+  "small": [
+    {"symbol": "IRCON", "name": "Ircon International", "sector": "Infrastructure"},
+    {"symbol": "NBCC", "name": "NBCC (India)", "sector": "Construction"},
+    {"symbol": "HFCL", "name": "HFCL", "sector": "Telecom Equipment"},
+    {"symbol": "RAILTEL", "name": "RailTel Corporation", "sector": "Telecom"},
+    {"symbol": "TRIDENT", "name": "Trident", "sector": "Textiles"},
+    {"symbol": "JPPOWER", "name": "Jaiprakash Power Ventures", "sector": "Power"},
+    {"symbol": "SOUTHBANK", "name": "South Indian Bank", "sector": "Banking"},
+    {"symbol": "RPOWER", "name": "Reliance Power", "sector": "Power"}
+  ]
+}
